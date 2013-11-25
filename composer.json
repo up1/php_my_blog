@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+        "silex/silex": "~1.1",
+        "twig/twig": ">=1.8,<2.0-dev",
+        "swiftmailer/swiftmailer": ">=4.1.2,<4.2-dev",
+        "symfony/browser-kit": "2.1.*@dev",
+        "michelf/php-markdown": "1.3.*@dev",
+        "symfony/yaml":"*",
+        "entea/silex-twig-simple-asset-extension": "v1.0.0"
+    },
+    "minimum-stability": "dev"
+}
